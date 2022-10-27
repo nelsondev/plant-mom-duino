@@ -1,0 +1,8 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "sketch": "plant-mom.ino",
+    "programmer": "avrisp",
+    "output": "bin",
+    "port": "/dev/tty.usbserial-14240"
+}

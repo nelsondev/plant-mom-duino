@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/nelr/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/nelr/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/variants/eightanaloginputs"
+  },
+  {
+    "Sourcefile": "/Users/nelr/Arduino/plant-mom/bin/sketch/plant-mom.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

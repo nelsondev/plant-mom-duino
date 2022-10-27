@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../..,../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:nano:cpu=atmega328old",
+  "hardwareFolders": "/Users/nelr/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/nelr/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/nelr/Arduino/plant-mom/plant-mom.ino"
+}

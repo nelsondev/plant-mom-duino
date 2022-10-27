@@ -1,0 +1,9 @@
+#line 1 "/Users/nelr/Arduino/plant-mom/.vscode/arduino.json"
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "sketch": "plant-mom.ino",
+    "programmer": "avrisp",
+    "output": "bin",
+    "port": "/dev/tty.usbserial-14240"
+}
